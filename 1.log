@@ -1,0 +1,18 @@
+Main program thread [20663:233705472], begin new logging event at 1397586795.264884
+First Process [233705472:234778624], concurrent process number 1, memory mapped file at 1397586795.265331
+First Process [233705472:234242048], concurrent process number 1, memory mapped file at 1397586795.265333
+Other Process [233705472:235315200], concurrent process number 2, memory mapped file at 1397586795.265379
+Other Process [233705472:235851776], concurrent process number 3, memory mapped file at 1397586795.265458
+Other Process [233705472:236388352], concurrent process number 4, memory mapped file at 1397586795.265474
+Other Process [233705472:236924928], concurrent process number 5, memory mapped file at 1397586795.265590
+Other Process [233705472:237461504], concurrent process number 6, memory mapped file at 1397586795.265592
+Other Process [233705472:237998080], concurrent process number 7, memory mapped file at 1397586795.265601
+Process [233705472:234242048], concurrent process number 1, awake at 1397586805.267005
+Process [233705472:235851776], concurrent process number 3, awake at 1397586805.267005
+Process [233705472:235315200], concurrent process number 2, awake at 1397586805.267020
+Process [233705472:234778624], concurrent process number 1, awake at 1397586805.267020
+Process [233705472:236388352], concurrent process number 4, awake at 1397586805.267280
+Process [233705472:236924928], concurrent process number 5, awake at 1397586805.267280
+Process [233705472:237461504], concurrent process number 6, awake at 1397586805.267280
+Process [233705472:237998080], concurrent process number 7, awake at 1397586805.267444
+Main program thread [20663:233705472], end new logging event at 1397586805.267735
